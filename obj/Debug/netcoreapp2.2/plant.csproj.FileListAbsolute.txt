@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/plant/obj/Debug/netcoreapp2.2/plant.csprojAssemblyReference.cache
+/Users/Guest/Desktop/plant/obj/Debug/netcoreapp2.2/plant.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/plant/obj/Debug/netcoreapp2.2/plant.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/plant/obj/Debug/netcoreapp2.2/plant.AssemblyInfo.cs
